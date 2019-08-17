@@ -41,7 +41,7 @@ Gem::Specification.new do |s|
     else
       s.add_dependency(%q<jeweler>, ["~> 1.8.4"])
       s.add_dependency(%q<omniauth-oauth>, ["~> 1.1"])
-      s.add_dependency(%q<multi_xml>, ["~> 0.5.5"])
+      s.add_dependency(%q<multi_xml>, ["~> 0.6.0"])
     end
   else
     s.add_dependency(%q<jeweler>, ["~> 1.8.4"])
